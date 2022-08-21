@@ -22,3 +22,16 @@ I work on my music or I go to one of my few go-to games at my disposal, such as
 StarCraft, Guilty Gear Strive, gzdoom, and Overwatch. If you would like to play
 StarCraft (brood war/remastered) or Guilty Gear, I am always open! You can find
 me on the US West regions.
+
+## GitHub Stats!
+
+| <img src="https://github-readme-stats.vercel.app/api?username=nazunalika&show_icons=true&theme=react&include_all_commits=true" alt="nazunalika" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazunalika&layout=compact&theme=react&langs_count=10&hide=css" alt="nazunalika" /> |
+|--- |---
+
+<br />
+
+<div align="center">
+<a href="https://github.com/nazunalika?tab=followers"><img src="https://img.shields.io/github/followers/nazunalika.svg?style=social&label=Follow&maxAge=z"></a>
+<a href="https://github.com/nazunalika"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/nazunalika"><img src="https://komarev.com/ghpvc/?username=nazunalika" alt="nazunalika"/></a>
+</div>
