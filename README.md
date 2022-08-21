@@ -25,10 +25,8 @@ me on the US West regions.
 
 ## GitHub Stats!
 
-| <img src="https://github-readme-stats.vercel.app/api?username=nazunalika&show_icons=true&theme=react&include_all_commits=true" alt="nazunalika" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazunalika&layout=compact&theme=react&langs_count=10&hide=css" alt="nazunalika" /> |
+| [![nazunalika's stats](https://github-readme-stats.vercel.app/api?username=nazunalika&show_icons=true&theme=react&include_all_commits=true)](https://github.com/nazunalika) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazunalika&layout=compact&theme=react&langs_count=10&hide=css,rst,javascript,saltstack,html,scheme)](https://github.com/nazunalika) |
 |--- |---
-
-<br />
 
 <div align="center">
 <a href="https://github.com/nazunalika?tab=followers"><img src="https://img.shields.io/github/followers/nazunalika.svg?style=social&label=Follow&maxAge=z"></a>
