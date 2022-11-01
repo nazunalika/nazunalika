@@ -10,9 +10,10 @@ I work on too many things to remember or count. The primary things I work on
 though these days would be:
 
 * [Rocky Linux](https://rockylinux.org)
-* Ansible stuff (like my lazybuilder)
+* Ansible stuff (like my lazybuilder, and Rocky Linux infrastructure)
 * My own FreeIPA adventures
 * My own Fedora system when it misbehaves
+* Some gzdoom builds (when they have releases)
 * Maintaining some python and powershell scripts, Windows images (for my own 
 sanity)
 
