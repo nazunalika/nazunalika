@@ -16,6 +16,8 @@ though these days would be:
 * Some gzdoom builds (when they have releases)
 * Maintaining some python and powershell scripts, Windows images (for my own 
 sanity)
+* Light maintaining of [a wiki](https://linuxguideandhints.com/) with some
+Enterprise Linux and Fedora stuff
 
 ## What do you do in your free time?
 
