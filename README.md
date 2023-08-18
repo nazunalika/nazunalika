@@ -9,8 +9,7 @@ I want to thank you for stopping by!
 I work on too many things to remember or count. The primary things I work on
 though these days would be:
 
-* [Rocky Linux](https://rockylinux.org)
-* Ansible stuff (like my lazybuilder, and Rocky Linux infrastructure)
+* Ansible stuff (like my lazybuilder, and Rocky Linux infrastructure roles)
 * My own FreeIPA adventures
 * My own Fedora system when it misbehaves
 * Some gzdoom builds (when they have releases)
