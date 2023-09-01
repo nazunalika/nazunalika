@@ -9,7 +9,7 @@ I want to thank you for stopping by!
 I work on too many things to remember or count. The primary things I work on
 though these days would be:
 
-* Ansible stuff (like my lazybuilder, and Rocky Linux infrastructure roles)
+* Ansible stuff
 * My own FreeIPA adventures
 * My own Fedora system when it misbehaves
 * Some gzdoom builds (when they have releases)
@@ -22,7 +22,7 @@ Enterprise Linux and Fedora stuff
 
 I work on my music or I go to one of my few go-to games at my disposal, such as
 StarCraft, Guilty Gear Strive, gzdoom, and Overwatch. If you would like to play
-StarCraft (brood war/remastered) or Guilty Gear, I am always open! You can find
+StarCraft (brood war/remastered) or Guilty Gear Strive, I am always open! You can find
 me on the US West regions.
 
 ## GitHub Stats!
