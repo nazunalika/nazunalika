@@ -12,7 +12,7 @@ though these days would be:
 * Ansible stuff
 * My own FreeIPA adventures
 * My own Fedora system when it misbehaves
-* Some gzdoom builds (when they have releases)
+* Some uzdoom builds (when they have releases)
 * Maintaining some python and powershell scripts, Windows images (for my own 
 sanity)
 * Light maintaining of [a wiki](https://linuxguideandhints.com/) with some
@@ -21,7 +21,7 @@ Enterprise Linux and Fedora stuff
 ## What do you do in your free time?
 
 I work on my music or I go to one of my few go-to games at my disposal, such as
-StarCraft, Guilty Gear Strive, gzdoom, and Overwatch. If you would like to play
+StarCraft, Guilty Gear Strive, uzdoom, and Overwatch. If you would like to play
 StarCraft (brood war/remastered) or Guilty Gear Strive, I am always open! You can find
 me on the US West regions.
 
