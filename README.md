@@ -23,11 +23,15 @@ Enterprise Linux and Fedora stuff
 I work on my music or I go to one of my few go-to games at my disposal, such as
 StarCraft, Guilty Gear Strive, uzdoom, and Overwatch. If you would like to play
 StarCraft (brood war/remastered) or Guilty Gear Strive, I am always open! You can find
-me on the US West regions.
+me on the US East region parks where most players congregate.
 
-## GitHub Stats!
+## Other Links
 
-[![nazunalika's stats](https://github-readme-stats.vercel.app/api?username=nazunalika&show_icons=true&theme=react&include_all_commits=true)](https://github.com/nazunalika)
+[Codeberg](https://codeberg.org/label) - New stuff will appear here
+
+[Personal Wiki](https://linuxguideandhints.com)
+
+[Blog](https://nazunalika.github.io)
 
 <div align="center">
 <a href="https://github.com/nazunalika?tab=followers"><img src="https://img.shields.io/github/followers/nazunalika.svg?style=social&label=Follow&maxAge=z"></a>
